@@ -1,0 +1,22 @@
+<idea-plugin>
+  <id>material.darker.ptsans</id>
+  <name>Material Darker Theme</name>
+  <version>0.1</version>
+  <category>Themes</category>
+  <vendor email="kzone416@gmail.com">Ptsans</vendor>
+  <description>
+        This is a forked version of the &lt;a href="https://plugins.jetbrains.com/plugin/12124-material-theme-ui-lite"&gt;Material Theme UI Plugin&lt;/a&gt;
+        that include only modified Material Darker Theme.
+        </description>
+  <depends>com.intellij.modules.platform</depends>
+  <depends>com.intellij.modules.lang</depends>
+  <change-notes/>
+  <idea-version since-build="191.6183"/>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="material-contrast" path="/material_darker_contrast.theme.json"/>
+  </extensions>
+  <actions>
+   
+  </actions>
+</idea-plugin>
