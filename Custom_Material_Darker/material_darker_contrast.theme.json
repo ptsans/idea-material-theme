@@ -127,7 +127,7 @@
     "ComboPopup.border": "#292929",
     "CompletionPopup": {
       "background": "#292929",
-      "foreground": "#B0BEC5",
+      "foreground": "#D6D6D6",
       "infoForeground": "#727272",
       "matchForeground": "#FF9800",
       "matchSelectionForeground": "#FF9800",
