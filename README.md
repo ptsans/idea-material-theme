@@ -1,5 +1,5 @@
 # Custom Material Darker Theme
-#### *Forked from [Material Lite Plugin 13.1](https://plugins.jetbrains.com/plugin/12124-material-theme-ui-lite)*
+#### *Forked from [Material Lite Plugin 16.0](https://plugins.jetbrains.com/plugin/12124-material-theme-ui-lite)*
 ----
 ## Requirements
 
