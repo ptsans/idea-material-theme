@@ -73,7 +73,7 @@
         <option name="DIAGRAM_SNAPPING_LINES" value="ff9800" />
         <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
         <option name="DIFF_SEPARATORS_TOP_BORDER" value="171717" />
-        <option name="DOCUMENTATION_COLOR" value="212121" />
+        <option name="DOCUMENTATION_COLOR" value="292929" />
         <option name="DOC_COMMENT_GUIDE" value="424242" />
         <option name="DOC_COMMENT_LINK" value="89ddf7" />
         <option name="FILESTATUS_ADDED" value="c3e88d" />
@@ -95,7 +95,7 @@
         <option name="FILESTATUS_SUPPRESSED" value="616161" />
         <option name="FILESTATUS_SWITCHED" value="c792ea" />
         <option name="FILESTATUS_UNKNOWN" value="f77669" />
-        <option name="FILESTATUS_addedOutside" value="c3e88d" />
+        <option name="FILESTATUS_addedOutside" value="ffcb6b" />
         <option name="FILESTATUS_changelistConflict" value="fc9867" />
         <option name="FILESTATUS_modifiedOutside" value="c792ea" />
         <option name="GUTTER_BACKGROUND" value="212121" />
@@ -2925,7 +2925,7 @@
         </option>
         <option name="NOT_USED_ELEMENT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="616161" />
+                <option name="FOREGROUND" value="c7d5d6" />
             </value>
         </option>
         <option name="OC.CLASS_REFERENCE">
