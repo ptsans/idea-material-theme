@@ -1,2 +1,2 @@
-#!/bin/zsh
-jar cvf plugin.jar -C ./Custom_Material_Darker . 
+#!/bin/bash
+jar cvf plugin.jar -C ./Material_Darker_Compact .
