@@ -1597,8 +1597,6 @@
             },
             "runningBackground": "hl",
             "runningForeground": "selFg",
-            "runningIconColor": "accent",
-            "runIconColor": "accent",
             "Run": {
                 "activeBackground": "hl"
             },
