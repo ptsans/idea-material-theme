@@ -133,8 +133,7 @@
             "shadowWidth": 0,
             "Split": {
                 "default": {
-                    "iconColor": "fg",
-                    "separatorColor": "accent"
+                    "iconColor": "fg"
                 }
             },
             "startBackground": "table",
@@ -2073,9 +2072,7 @@
                 "HeaderTab.background": "cs"
             },
             "Stripe": {
-                "DragAndDrop": {
-                    "separatorColor": "accent50"
-                },
+                "DragAndDrop": {},
                 "separatorColor": "table"
             }
         },
