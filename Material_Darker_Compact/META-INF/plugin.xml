@@ -51,11 +51,9 @@
   <change-notes></change-notes>
 
   <idea-version since-build="191.6183"/>
-  <resource-bundle>messages.MaterialThemeBundle</resource-bundle>
-
 
   <extensions defaultExtensionNs="com.intellij">
-    <themeProvider id="Material Darker Compact" path="/Material Darker Compact.theme.json"/>
+    <themeProvider id="Material Darker Compact Contrast" path="/Material Darker Compact Contrast.theme.json"/>
   </extensions>
 
 </idea-plugin>
