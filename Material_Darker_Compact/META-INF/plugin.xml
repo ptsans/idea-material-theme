@@ -53,7 +53,7 @@
   <idea-version since-build="191.6183"/>
 
   <extensions defaultExtensionNs="com.intellij">
-    <themeProvider id="Material Darker Compact Contrast" path="/Material Darker Compact Contrast.theme.json"/>
+    <themeProvider id="Material Darker Compact Contrast" path="/Material Darker Compact.theme.json"/>
   </extensions>
 
 </idea-plugin>

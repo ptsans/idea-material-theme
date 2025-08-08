@@ -1642,45 +1642,6 @@
             "hoveredBorderColor": "accent",
             "selectedBorderColor": "accent"
         },
-        "scrollbar": "bg",
-        "ScrollBar": {
-            "background": "bg",
-            "hoverThumbBorderColor": "accent",
-            "hoverThumbColor": "accent",
-            "hoverTrackColor": "bg30",
-            "Mac": {
-                "hoverThumbBorderColor": "accent",
-                "hoverThumbColor": "accent",
-                "hoverTrackColor": "bg30",
-                "thumbBorderColor": "accent70",
-                "thumbColor": "accent70",
-                "trackColor": "bg30",
-                "Transparent": {
-                    "hoverThumbBorderColor": "accent",
-                    "hoverThumbColor": "accent",
-                    "hoverTrackColor": "bg30",
-                    "thumbBorderColor": "accent70",
-                    "thumbColor": "accent70",
-                    "trackColor": "bg30"
-                }
-            },
-            "thumb": "hl",
-            "thumbBorderColor": "accent70",
-            "thumbColor": "accent70",
-            "Thumb": {
-                "Hovered.background": "accent",
-                "NonOpaque.Hovered.background": "accent"
-            },
-            "trackColor": "bg30",
-            "Transparent": {
-                "hoverThumbBorderColor": "accent",
-                "hoverThumbColor": "accent",
-                "hoverTrackColor": "bg30",
-                "thumbBorderColor": "accent70",
-                "thumbColor": "accent70",
-                "trackColor": "bg30"
-            }
-        },
         "SearchEverywhere": {
             "Advertiser": {
                 "background": "bg",
